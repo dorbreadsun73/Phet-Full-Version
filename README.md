@@ -239,3 +239,6 @@ This repository serves as the official landing page for PhET. The software is di
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PhET today!**
+
+---
+**Last updated:** 2026-09-09 20:40:24 UTC
