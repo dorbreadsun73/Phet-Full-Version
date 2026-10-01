@@ -241,4 +241,4 @@ This repository serves as the official landing page for PhET. The software is di
 **Get the most recent version of PhET today!**
 
 ---
-**Last updated:** 2026-10-01 16:07:51 UTC
+**Last updated:** 2026-10-01 21:39:04 UTC
